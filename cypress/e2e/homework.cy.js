@@ -44,6 +44,4 @@ it(`input data: ${logPass.testData}`, () => {
 
 })
 })
-
-
 })
