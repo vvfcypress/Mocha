@@ -1,6 +1,5 @@
 ///<reference types = "cypress"/>
 
-
 beforeEach(() => {
 
   cy.visit('https://sanitarskyi-ngx-admin.herokuapp.com/');
